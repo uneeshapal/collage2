@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Uneesha"
+    },
+    {
+      "name": "vlnbpl",
+      "id": 2
+    },
+    {
+      "name": "Uneesha Pal",
+      "email": "uneeshapal79@gmail.com",
+      "password": "Uneeshapal@01",
+      "phone": "08860443705",
+      "id": 4
+    }
+  ]
+}

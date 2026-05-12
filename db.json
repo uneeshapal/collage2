@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aman"
+    },
+    {
+      "name": "Uneesha Pal",
+      "email": "babypal025@gmail.com",
+      "phone": "08860443705",
+      "course": "BBA",
+      "address": "zxcvbn",
+      "id": 2
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Rahul Sir"
+    },
+    {
+      "name": "Rahul Sharma",
+      "gender": "Male",
+      "dob": "1998-05-10",
+      "email": "rahul@gmail.com",
+      "phone": "9876543210",
+      "department": "Computer Science",
+      "subject": "React JS",
+      "qualification": "MCA",
+      "experience": "5",
+      "address": "Ghaziabad, Uttar Pradesh",
+      "id": 2
+    },
+    {
+      "name": "UNEESHA",
+      "gender": "Female",
+      "dob": "2026-05-06",
+      "email": "uneeshapal79@gmail.com",
+      "phone": "88604-43705",
+      "department": "Computer Science",
+      "subject": "React JS",
+      "qualification": "MCA",
+      "experience": "-6",
+      "address": "khora",
+      "id": 3
+    }
+  ]
+}
