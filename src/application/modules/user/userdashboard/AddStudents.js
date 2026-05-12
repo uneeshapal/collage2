@@ -7,12 +7,11 @@ import axios from "axios";
 function AddStudent() {
   const navigate = useNavigate();
 
-  const {
-    register,
-    handleSubmit,
-    setValue,
-    formState: { errors },
-  } = useForm();
+const {
+  register,
+  handleSubmit,
+  formState: { errors },
+} = useForm();
 
 
   const onSubmit = async (data) => {
