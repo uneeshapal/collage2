@@ -7,13 +7,11 @@ import axios from "axios";
 function AddTeachers() {
 
   const navigate = useNavigate();
-
-  const {
-    register,
-    handleSubmit,
-    setValue,
-    formState: { errors },
-  } = useForm();
+const {
+  register,
+  handleSubmit,
+  formState: { errors },
+} = useForm();
 
 
 
